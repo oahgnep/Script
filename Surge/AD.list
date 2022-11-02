@@ -1,6 +1,7 @@
-#Parallels Desktop 规则屏蔽
+#规则屏蔽
 
 
+#Parallels Desktop
 DOMAIN,download.parallels.com
 DOMAIN,update.parallels.com
 DOMAIN,desktop.parallels.com
@@ -15,3 +16,9 @@ DOMAIN,parallels.cn
 DOMAIN,pax-manager.myparallels.com
 DOMAIN,myparallels.com
 DOMAIN,my.parallels.com
+
+#SublimeText
+DOMAIN-SUFFIX,packagecontrol.io
+DOMAIN-SUFFIX,sublimehq.com
+DOMAIN-SUFFIX,sublimemerge.com
+DOMAIN-SUFFIX,sublimetext.com
